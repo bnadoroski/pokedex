@@ -1,11 +1,12 @@
 <template>
   <v-app>
-    <v-main>
-      <router-view />
-    </v-main>
+      <TheHeader />
+      <TheFooter />
   </v-app>
 </template>
 
 <script setup>
+import TheHeader from "@/pages/TheHeader.vue"
+import TheFooter from "@/pages/TheFooter.vue"
   //
 </script>
