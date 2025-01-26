@@ -10,3 +10,4 @@ import TheHeader from "@/pages/TheHeader.vue"
 import TheFooter from "@/pages/TheFooter.vue"
   //
 </script>
+

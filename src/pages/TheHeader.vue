@@ -22,10 +22,6 @@
               <router-link to="/home">Home</router-link>
             </v-tab>
 
-            <v-tab :value="1">
-              <router-link to="/about">About</router-link>
-            </v-tab>
-
           </v-tabs>
         </template>
       </v-app-bar>
